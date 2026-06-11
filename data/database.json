@@ -1,0 +1,12 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "name": "Alex",
+            "email": "alex@gmail.com",
+            "projects": []
+        }
+    ],
+    "projects": [],
+    "tasks": []
+}
