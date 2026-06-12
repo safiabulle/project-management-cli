@@ -7,6 +7,28 @@
             "projects": []
         }
     ],
-    "projects": [],
-    "tasks": []
+    "projects": [
+        {
+            "id": 1,
+            "title": "CLI Tool",
+            "description": "Python CLI Project",
+            "due_date": "Not Set",
+            "owner_id": 1,
+            "tasks": []
+        }
+    ],
+    "tasks": [
+        {
+            "id": 1,
+            "title": "Implement Login",
+            "project_id": 1,
+            "status": "Completed"
+        },
+        {
+            "id": 2,
+            "title": "Write Tests",
+            "project_id": 1,
+            "status": "Completed"
+        }
+    ]
 }
